@@ -5,17 +5,16 @@ Robin Taing
 25.04.2025 - .2025
 
 ## Grob-Planung
-1. Welche Programmiersprache möchten Sie verwenden? Was denken Sie, wo Ihre Zeit und Übung am sinnvollsten ist?
-2. Welche Datenbank-Technologie möchten Sie üben? Fühlen Sie sich sicher mit SQL und möchten etwas Neues ausprobieren; oder möchten Sie sich weiter mit SQL beschäftigen?
-3. Was wäre ein geeignetes Abschluss-Projekt?
+Wenn meine Kollegen und ich etwas unternehmen wollen, schlagen wir es in den Gruppenchat vor. Viele positive Stimmen aber nie die Zeit und Organisation um etwas zu Unternehmen. 
+In dieser Lernperiode werde ich ein Kalender mit einem Backend implementieren. Der Kalender soll für mehrere Personen zugänglich sein, damit sie ihre Freien und nicht Freie Tage auf einen Blick sehen können. 
 
 ## 25.4
 
 Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Machbarkeit dieser in jeweils 45' am einfachsten beweisen?
 
-- [ ] *make or break feature* 1:
-- [ ] *make or break feature* 2:
-- [ ] *make or break feature* 3:
+- [ ] *make or break feature* 1: Login/Sign up
+- [ ] *make or break feature* 2: Kalender mit möglichen Makierungen
+- [ ] *make or break feature* 3: Kalender ist für verschiedene Personen zugreifbar
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
