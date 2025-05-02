@@ -16,7 +16,7 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 - [ ] *make or break feature* 2: Kalender mit möglichen Makierungen
 - [ ] *make or break feature* 3: Kalender ist für verschiedene Personen zugreifbar
 
-✍️ Heute habe ich... (50-100 Wörter)
+Heute habe ich mit der Planung des Kalenders angefangen
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
 
@@ -24,12 +24,13 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
 
-- [ ] hosting einer Webseite
-- [ ] login / sign up
+- [x] hosting einer Webseite
+- [ ] Login/ Sign up
 - [ ] Kalender im Web finden
 - [ ] Klassen für das Backend(📵)
 
-✍️ Heute habe ich... (50-100 Wörter)
+Ich musste mein Keyboard fixen. Es stellte sich heraus, das es ein Hardware Problem war. Ich habe dann fast den ganzen Nachmittag damit verbracht, mir bei der IT ein Laptop auszuleihen und das WLAN auf dessen Gerät zu troubleshooten.
+Ich habe mich beschlossen die Webseite auf einer Raspberry Pi laufen zu lassen.
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
@@ -37,15 +38,16 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 
 Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen realisiert ist. Schreiben Sie dazu zunächst 3 solche übergeordneten Kern-Funktionalitäten auf:
 
-1. Kern-Funktionalität
-2. Kern-Funktionalität
-3. Kern-Funktionalität
+1. *make or break feature* Login/Sign up
+2. *make or break feature* Kalender mit möglichen Makierungen
+3. *make or break feature* Kalender ist für verschiedene Personen zugreifbar
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Klassen in Visual Studio einfügen
+- [ ] CRUD funkionen aufsetzen
+- [ ] Login/ Sign up
+- [ ] Mit dem Frontend beginnen
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
