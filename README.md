@@ -18,8 +18,6 @@ Welche 3 *features* sind die wichtigsten Ihres Projektes? Wie können Sie die Ma
 
 Heute habe ich mit der Planung des Kalenders angefangen
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen. Ggf. bietet es sich an, für die Code-Schnipsel einen eigenen Ordner `exploration` zu erstellen.
-
 ## 2.5
 
 Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr Recherche? (Sie können auch mehrere AP für ein *feature* aufwenden.)
@@ -44,21 +42,21 @@ Planen Sie nun Ihr Projekt, sodass die *Kern-Funktionalität* in 3 Sitzungen rea
 
 Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen Sie jetzt bereits, auch die Sitzung vom 16.5 und 23.5 zu planen (im Wissen, dass Sie kleine Anpassungen an Ihrer Planung vornehmen können).
 
-- [ ] Klassen in Visual Studio einfügen
+- [x] Klassen in Visual Studio einfügen
 - [ ] CRUD funkionen aufsetzen
 - [ ] Login/ Sign up
 - [ ] Mit dem Frontend beginnen
 
-✍️ Heute habe ich... (50-100 Wörter)
+Bis jetzt konnte ich die Klassen hinzufügen und GET sowie POST zum laufen bringen können. Das nächste mal werde ich PUT und DELETE implementieren.
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
+![image](https://github.com/user-attachments/assets/16e739f8-584c-4c15-b842-f001be62e4b8)
 
 ## 16.5
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] PUT funkion
+- [ ] DELET funkion
+- [ ] Login/ Sign up
+- [ ] übersicht über die vielen Klassen gelangen (brauche ich alle überhaupt?)
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
@@ -66,7 +64,7 @@ Diese Kern-Funktionalitäten brechen Sie nun in etwa 4 AP je herunter. Versuchen
 
 ## 23.5
 
-- [ ] ...
+- [ ] Mit dem Frontend beginnen
 - [ ] ...
 - [ ] ...
 - [ ] ...
