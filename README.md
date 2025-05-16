@@ -58,6 +58,7 @@ Bis jetzt konnte ich die Klassen hinzufügen und GET sowie POST zum laufen bring
 - [ ] Login/ Sign up
 - [x] übersicht über die vielen Klassen gelangen (brauche ich alle überhaupt?)
 
+CRUD ist implementiert und Klassen berreinigt. Das nächste mal werde ich schauen, dass verschiedene Accounts generiert werden können. Mittels Screenshot kann ich dann Teile des Codes Teilen.
 
 ## 23.5
 
