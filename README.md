@@ -53,21 +53,18 @@ Bis jetzt konnte ich die Klassen hinzufügen und GET sowie POST zum laufen bring
 
 ## 16.5
 
-- [ ] PUT funkion
-- [ ] DELET funkion
+- [x] PUT funkion
+- [x] DELET funkion
 - [ ] Login/ Sign up
-- [ ] übersicht über die vielen Klassen gelangen (brauche ich alle überhaupt?)
+- [x] übersicht über die vielen Klassen gelangen (brauche ich alle überhaupt?)
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 23.5
 
 - [ ] Mit dem Frontend beginnen
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] Authorization / JWT
+- [ ] Backend Testen (Postman)
+- [ ] MIt Screenshots das Backend Dokumentieren für die Präsentation
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
