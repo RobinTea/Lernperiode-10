@@ -63,22 +63,20 @@ CRUD ist implementiert und Klassen berreinigt. Das nächste mal werde ich schaue
 ## 23.5
 
 - [ ] Mit dem Frontend beginnen
-- [ ] Authorization / JWT
+- [x] Authorization / JWT
 - [ ] Backend Testen (Postman)
 - [ ] MIt Screenshots das Backend Dokumentieren für die Präsentation
 
-✍️ Heute habe ich... (50-100 Wörter)
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 6.6
 
 Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Allerdings gibt es sicher noch Teile, welche "schöner" werden können: Layout, Code, Architektur... beschreiben Sie kurz den Stand Ihres Projekts, und leiten Sie daraus 6 solche "kosmetischen" AP für den 6.6 und den 13.6 ab.
 
-- [ ] ...
-- [ ] ...
-- [ ] ...
-- [ ] ...
+- [ ] CRUD Funkion: Create & Read in Postman testen
+- [ ] CRUD Funkion: Delete & Update in Postman testen
+- [ ] Mit dem Frontend beginnen (mit React) Gleich in Visual Studio
+- [ ] Erste Struktur für PPP
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
