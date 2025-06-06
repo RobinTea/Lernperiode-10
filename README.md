@@ -78,10 +78,6 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 - [ ] Mit dem Frontend beginnen (mit React) Gleich in Visual Studio
 - [ ] Erste Struktur für PPP
 
-✍️ Heute habe ich... (50-100 Wörter)
-
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
-
 ## 13.6
 
 - [ ] ...
