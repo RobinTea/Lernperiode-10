@@ -90,7 +90,7 @@ https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8
 
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
-- [ ] Dokumentieren
+- [ ] Dokumentieren und Code säubern
 - [ ] Präsentation erstellen
 - [ ] Bilder und Grafiken suchen und eifnügen
 - [ ] Auftritt üben
