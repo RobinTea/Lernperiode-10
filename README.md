@@ -83,7 +83,7 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 - [ ] 
 - [ ] ...
 
-✍️ Heute habe ich... (50-100 Wörter)
+https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
@@ -91,7 +91,10 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 Was fehlt Ihrem fertigen Projekt noch, um es auszuliefern? Reicht die Zeit für ein *nice-to-have feature*?
 
-- [ ] ...
+- [ ] Dokumentieren
+- [ ] Präsentation erstellen
+- [ ] Bilder und Grafiken suchen und eifnügen
+- [ ] Auftritt üben
 
 Bereiten Sie in den verbleibenden 2 AP Ihre Präsentation vor
 
