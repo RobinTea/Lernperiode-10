@@ -80,7 +80,7 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 ## 13.6
 
-- [ ] ...
+- [ ] 
 - [ ] ...
 
 ✍️ Heute habe ich... (50-100 Wörter)
