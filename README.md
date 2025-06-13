@@ -85,7 +85,6 @@ Ihr Projekt sollte nun alle Funktionalität haben, dass man es benutzen kann. Al
 
 https://www.linkedin.com/learning/web-apis-mit-asp-dot-net-core-8
 
-☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
 
 ## 20.6
 
