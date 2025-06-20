@@ -27,7 +27,7 @@ Ausgehend von Ihren Erfahrungen vom 25.4, welche *features* brauchen noch mehr R
 - [ ] Kalender im Web finden
 - [ ] Klassen für das Backend(📵)
 
-Ich musste mein Keyboard fixen. Es stellte sich heraus, das es ein Hardware Problem war. Ich habe dann fast den ganzen Nachmittag damit verbracht, mir bei der IT ein Laptop auszuleihen und das WLAN auf dessen Gerät zu troubleshooten.
+Ich musste mein Keyboard reparieren. Es stellte sich heraus, das es ein Hardware Problem war. Ich habe dann fast den ganzen Nachmittag damit verbracht, mir bei der IT ein Laptop auszuleihen und das WLAN auf dessen Gerät zu troubleshooten.
 Ich habe mich beschlossen die Webseite auf einer Raspberry Pi laufen zu lassen.
 
 ☝️ Vergessen Sie nicht, den Code von heute auf github hochzuladen.
